@@ -77,6 +77,3 @@ Feel free to submit **issues** or **pull requests**. Let's build together! 🚀
 This project is **MIT Licensed** – you can modify and distribute it freely.
 
 ---
-
-✅ **Now, just copy-paste this into your GitHub README!** Let me know if you need any changes. 🚀🔥
-
