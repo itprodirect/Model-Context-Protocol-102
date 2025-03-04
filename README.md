@@ -1,5 +1,9 @@
 # Model Context Protocol 102 (MCP-102) - API Tutorial with Jupyter Notebook
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 ## 📌 Overview
 This repository is a beginner-friendly tutorial for working with MCP APIs using Jupyter Notebook.  
 You'll learn how to:
