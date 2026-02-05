@@ -21,9 +21,6 @@ Make README instructions consistent by standardizing on `.venv` everywhere (no m
 - Keep scope to docs only (README + optionally RUNBOOK if it mentions the env).
 
 ## Actions Taken
-- (planned) Search README/RUNBOOK for `venv` / `.venv`
-- (planned) Update commands + wording to `.venv`
-- (planned) Quick restart check: follow README steps literally
 - Opened and executed notebook end-to-end to confirm it runs.
 - Created new session log file from template.
 - Ran notebook start-to-finish successfully.
@@ -36,11 +33,8 @@ Make README instructions consistent by standardizing on `.venv` everywhere (no m
 - Notebook is markdown-heavy; consider refactor/splitting later.
 
 ## Next — Immediate (15–30 min)
-1) Find every `venv` / `.venv` mention and list them here (quick bullets)
-2) Update docs to match `.venv` everywhere
-3) Save + commit + push
-4) Consider trimming/structuring the notebook so it contains more “do the thing” code and less narrative markdown (or split into README + smaller notebook).
-5) Short Term: Review notebook structure, potentially split narrative into README and keep notebook more “functional”
+- Consider trimming/structuring the notebook so it contains more “do the thing” code and less narrative markdown (or split into README + smaller notebook).
+- Short Term: Review notebook structure, potentially split narrative into README and keep notebook more “functional”
 
 ## Restart Test
 If I came back tomorrow, I would:
