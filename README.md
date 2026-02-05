@@ -9,7 +9,7 @@
 This repository is a beginner-friendly tutorial for working with MCP APIs using Jupyter Notebook.  
 You'll learn how to:
 
-- Set up a Python virtual environment (`venv`).
+- Set up a Python virtual environment (`.venv`).
 - Use Jupyter Notebook for API requests and data analysis.
 - Follow best practices for project structure and Git version control.
 
@@ -27,18 +27,18 @@ cd Model-Context-Protocol-102
 
 - **Mac/Linux**
   ```bash
-  python -m venv venv
-  source venv/bin/activate
+  python -m venv .venv
+  source .venv/bin/activate
   ```
 - **Windows (CMD)**
   ```cmd
-  python -m venv venv
-  venv\Scripts\activate
+  python -m venv .venv
+  .venv\Scripts\activate
   ```
 - **Windows (PowerShell)**
   ```powershell
-  python -m venv venv
-  venv\Scripts\Activate.ps1
+  python -m venv .venv
+  .venv\Scripts\Activate.ps1
   ```
 
 ### 3️⃣ Install Dependencies

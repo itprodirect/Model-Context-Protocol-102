@@ -11,3 +11,8 @@ This repo uses a simple session log so work can resume quickly.
 - Don’t write essays.
 - Don’t log everything.
 - Don’t “improve the logger” mid-session—log the friction first, improve later.
+
+## Template rule
+- Do not edit `logs/SESSION_TEMPLATE.md` directly.
+- Duplicate it and rename for each session log.
+
