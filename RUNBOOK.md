@@ -1,11 +1,8 @@
-cat > RUNBOOK.md <<'EOF'
-
 # Runbook (Model-Context-Protocol-102)
 
-## Quick start
+## Quick start (Windows PowerShell)
 
 ```powershell
-cd C:\Users\user\Desktop\Model-Context-Protocol-102
 py -m venv .venv
 .\.venv\Scripts\activate
 python -m pip install --upgrade pip

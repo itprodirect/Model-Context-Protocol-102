@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+> **What is this?** A hands-on tutorial teaching Python API fundamentals (requests, JSON, error handling) through a fictional MCP endpoint. No external API key required—just run the notebook to learn the patterns.
 
 ## 📌 Overview
 This repository is a beginner-friendly tutorial for working with MCP APIs using Jupyter Notebook.  
@@ -61,8 +62,10 @@ jupyter notebook
 Model-Context-Protocol-102/
 ├── .gitignore
 ├── Model-Context-Protocol-102.ipynb  # Main Jupyter Notebook tutorial
-├── requirements.txt  # List of dependencies
-└── venv/  # Virtual environment (not pushed to GitHub)
+├── LICENSE                           # MIT License
+├── RUNBOOK.md                        # Windows quick-start script
+├── requirements.txt                  # List of dependencies
+└── .venv/                            # Virtual environment (not pushed to GitHub)
 ```
 
 ---
